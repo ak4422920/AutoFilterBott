@@ -6,9 +6,9 @@
 
 <div align="center">
 
-![GitHub issues](https://img.shields.io/github/issues/Silicon-Developer/Auto_Filter_Bot?color=critical&style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/Silicon-Developer/Auto_Filter_Bot?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/Silicon-Developer/Auto_Filter_Bot?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/Silicon-Developer/Auto-Filter-Bot?color=critical&style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/Silicon-Developer/Auto-Filter-Bot?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/Silicon-Developer/Auto-Filter-Bot?style=for-the-badge)
 
 </div>
 
