@@ -65,8 +65,8 @@ THREE_VERIFY_GAP = int(environ.get('THREE_VERIFY_GAP', "14400"))
 
 # Force Subscribe Settings 
 
-auth_req_channels = environ.get("AUTH_REQ_CHANNELS", "-1002031749807")# requst to join Channel for force sub (make sure bot is admin) only for bot ADMINS  
-auth_channels = environ.get("AUTH_CHANNELS", "-1002331917822")# Channels for force sub (make sure bot is admin)
+auth_req_channels = environ.get("AUTH_REQ_CHANNELS", "-1003522885543")# requst to join Channel for force sub (make sure bot is admin) only for bot ADMINS  
+auth_channels = environ.get("AUTH_CHANNELS", "-1003613871726")# Channels for force sub (make sure bot is admin)
 AUTH_REQ_CHANNELS = [int(ch) for ch in auth_req_channels.split() if ch and id_pattern.match(ch)] 
 AUTH_CHANNELS = [int(ch) for ch in auth_channels.split() if ch and id_pattern.match(ch)]
 
