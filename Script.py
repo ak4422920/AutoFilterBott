@@ -4,7 +4,7 @@ class script(object):
 ɪ'ᴍ ᴛʜᴇ ᴍᴏsᴛ ᴀᴅᴠᴀɴᴄᴇ ᴀɪ ᴘᴏᴡᴇʀᴅ 🤖 Aᴅᴜʟᴛ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ..
 sᴇɴᴅ ᴍᴇ Aᴅᴜʟᴛ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ɴᴀᴍᴇ ᴀɴᴅ sᴇᴇ ᴍʏ ᴍᴀɢɪᴄ..✨
 
-<blockquote>ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/akmovieverse'>AkMovieVerse</a></blockquote>
+<blockquote>ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/purelysin'>PurelySin</a></blockquote>
 </b>"""
     
     HELP_TXT = """<b>ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..</b>"""
@@ -61,9 +61,9 @@ sᴇɴᴅ ᴍᴇ Aᴅᴜʟᴛ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ɴᴀᴍᴇ ᴀ�
 🍿 ᴅᴀᴛᴀʙᴀsᴇ : <a href="https://www.mongodb.com/">ᴍᴏɴɢᴏ ᴅʙ</a>
 🐍 ᴄᴏᴅɪɴɢ ᴍᴜsᴄʟᴇs : <a href="https://www.python.org/">ᴘʏᴛʜᴏɴ 𝟹</a>
 📚 ʟɪʙʀᴀʀʏ: <a href="https://github.com/Mayuri-Chan/pyrofork">ᴘʏʀᴏꜰᴏʀᴋ</a>
-👨‍💻 ᴏᴡɴᴇʀ : <a href="https://telegram.me/Ak_ownerbot">Ak_OwnerBot</a>
+👨‍💻 ᴏᴡɴᴇʀ : <a href="https://telegram.me/PurelySinVIPBot">Ak_OwnerBot</a>
 🔧 ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ𝟷.𝟶.𝟷
-💥 GK : <a href="https://t.me/akmovieshubx">ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+💥 GK : <a href="https://t.me/akmovieverse">ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 </b></blockquote>"""
 
     SUPPORT_GRP_MOVIE_TEXT = '''<b>ʜᴇʏ {}
@@ -142,7 +142,7 @@ sᴇɴᴅ ᴍᴇ Aᴅᴜʟᴛ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ɴᴀᴍᴇ ᴀ�
 ❗️ ʟᴀɴɢᴜᴀɢᴇ - {languages}</b>
 """
 
-    FILE_CAPTION = """<b><a href="https://t.me/AkMovieVerse">{file_name}</a>\n\nUploaded By: <a href="https://t.me/AkMovieVerse">AkMovieVerse</a></b>"""
+    FILE_CAPTION = """<b><a href="https://t.me/PurelySin">{file_name}</a>\n\nUploaded By: <a href="https://t.me/PurelySinX">PurelySin</a></b>"""
 
     MOVIE_UPDATE_NOTIFY_TXT = """
 </b><a href={poster_url}>📥</a><a href={imdb_url}>New {tag} Added</a></b>
@@ -190,10 +190,10 @@ sᴇɴᴅ ᴍᴇ Aᴅᴜʟᴛ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ɴᴀᴍᴇ ᴀ�
     
     PREMIUM_TEXT = """<b><i><blockquote>ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟᴀɴs  ♻️</blockquote>
 
-• 𝟷 ᴡᴇᴇᴋ  -  ₹𝟹𝟶
-• 𝟷 ᴍᴏɴᴛʜ  -  ₹80
-• 𝟹 ᴍᴏɴᴛʜs  -  ₹280
-• 𝟼 ᴍᴏɴᴛʜs  -  ₹45𝟶
+• 𝟷 ᴡᴇᴇᴋ    -  ₹𝟹𝟶
+• 𝟷 ᴍᴏɴᴛʜ   -  ₹110
+• 𝟹 ᴍᴏɴᴛʜs  -  ₹300
+• 𝟼 ᴍᴏɴᴛʜs  -  ₹55𝟶
 
 •─────•─────────•─────•
 <blockquote>ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇs  🎁</blockquote>
@@ -219,7 +219,7 @@ sᴇɴᴅ ᴍᴇ Aᴅᴜʟᴛ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ɴᴀᴍᴇ ᴀ�
 
     BUY_PLAN = """<b>○ <u>ꜰɪʀsᴛ sᴛᴇᴘ</u> : ᴘᴀʏ ᴛʜᴇ ᴀᴍᴏᴜɴᴛ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ʏᴏᴜʀ ꜰᴀᴠᴏʀɪᴛᴇ ᴘʟᴀɴ ᴛᴏ ᴛʜɪs <code>ak00007@ptyes</code> ᴜᴘɪ ɪᴅ.
     
-○ <u>secoɴᴅ sᴛᴇᴘ</u> : ᴛᴀᴋᴇ ᴀ sᴄʀᴇᴇɴsʜᴏᴛ ᴏꜰ ʏᴏᴜʀ ᴘᴀʏᴍᴇɴᴛ ᴀɴᴅ sʜᴀʀᴇ ɪᴛ ᴅɪʀᴇᴄᴛʟʏ ʜᴇʀᴇ: @ak_ownerbot 
+○ <u>secoɴᴅ sᴛᴇᴘ</u> : ᴛᴀᴋᴇ ᴀ sᴄʀᴇᴇɴsʜᴏᴛ ᴏꜰ ʏᴏᴜʀ ᴘᴀʏᴍᴇɴᴛ ᴀɴᴅ sʜᴀʀᴇ ɪᴛ ᴅɪʀᴇᴄᴛʟʏ ʜᴇʀᴇ: @PurelySinVIPBot
 
 ○ <u>ᴀʟᴛᴇʀɴᴀᴛɪᴠᴇ sᴛᴇᴘ</u> : ᴏʀ ᴜᴘʟᴏᴀᴅ ᴛʜᴇ sᴄʀᴇᴇɴsʜᴏᴛ ʜᴇʀᴇ ᴀɴᴅ ʀᴇᴘʟʏ ᴡɪᴛʜ ᴛʜᴇ /bought ᴄᴏᴍᴍᴀɴᴅ.
 
@@ -227,9 +227,9 @@ sᴇɴᴅ ᴍᴇ Aᴅᴜʟᴛ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ɴᴀᴍᴇ ᴀ�
 
     PLAN_TEXT = """<b>ᴡᴇ ᴀʀᴇ ᴘʀᴏᴠɪᴅɪɴɢ ᴘʀᴇᴍɪᴜᴍ ᴀᴛ ᴛʜᴇ ʟᴏᴡᴇsᴛ ᴘʀɪᴄᴇs:
     
- ʀᴜᴘᴇᴇ ᴘᴇʀ ᴅᴀʏ 
- ʀᴜᴘᴇᴇs ꜰᴏʀ ᴏɴᴇ ᴍᴏɴᴛʜ 
- ʀᴜᴘᴇᴇs ꜰᴏʀ ᴛᴡᴏ ᴍᴏɴᴛʜs 
+ 4 ʀᴜᴘᴇᴇ ᴘᴇʀ ᴅᴀʏ 
+ 110 ʀᴜᴘᴇᴇs ꜰᴏʀ ᴏɴᴇ ᴍᴏɴᴛʜ 
+ 210 ʀᴜᴘᴇᴇs ꜰᴏʀ ᴛᴡᴏ ᴍᴏɴᴛʜs 
 
 ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴄᴏɴᴛɪɴᴜᴇ ʙᴜʏɪɴɢ ↡↡↡
 </b>"""
@@ -244,13 +244,13 @@ sᴇɴᴅ ᴍᴇ Aᴅᴜʟᴛ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ɴᴀᴍᴇ ᴀ�
 
 4:- ᴛʜᴇɴ sᴇᴛ ʏᴏᴜʀ sʜᴏʀᴛɴᴇʀ ᴅᴇᴛᴀɪʟs ʙʏ ᴛʜɪs ꜰᴏʀᴍᴀᴛ 👇
 
-<code>/set_shortner ez4short.com 837b7a64653d1b435f5ea237840f1251d0c1ce</code>
+<code>/set_shortner ez4short.com 837b7a64653d1b435f5a237840f1251d0c1ce</code>
 
-<code>/set_shortner_2 omnifly.in.net f287e7e9b1a23cf542f77787d39607cae36a4d</code>
+<code>/set_shortner_2 omnifly.in.net f287e7e9b1a23cf42f77787d39607cae36a4d</code>
 
-<code>/set_shortner_3 shortslink.in 06b24eb6bbb025713cd522fb3f6b6d5de11354</code>
+<code>/set_shortner_3 shortslink.in 06b24eb6bbb02571cd522fb3f6b6d5de11354</code>
 
-<code>/set_tutorial https://t.me/akmovieshubx</code>
+<code>/set_tutorial https://t.me/akmovieverse</code>
 
 5:- ᴀᴅᴅ ʟᴏɢ ᴄʜᴀɴɴᴇʟ ʙʏ ᴛʜɪs ꜰᴏʀᴍᴀᴛ & ᴍᴀᴋᴇ sᴜʀᴇ ʙᴏᴛ ɪs ᴀᴅᴍɪɴ ɪɴ ʏᴏᴜʀ ʟᴏɢ ᴄʜᴀɴɴᴇʟ 👇
 
