@@ -281,7 +281,7 @@ async def season_search(client: Client, query: CallbackQuery):
         btn = [[InlineKeyboardButton(f"🔗 {get_size(f['file_size'])}≽ {formate_file_name(f['file_name'])}", callback_data=f"files#{query.from_user.id}#{f['_id']}")] for f in page_files]
 
     btn.insert(0, [
-        InlineKeyboardButton("• AdultPlayxBot •", url=f"https://t.me/AdultPlayxBot"),
+        InlineKeyboardButton("• DesiSinbot •", url=f"https://t.me/DesiSinbot"),
         InlineKeyboardButton("• Movies •", url=f"https://t.me/aksearch")
     ])
     btn.insert(1, [InlineKeyboardButton("• sᴇɴᴅ ᴀʟʟ •", callback_data=f"batchfiles#{query.message.chat.id}#{query.id}#{query.from_user.id}")])
@@ -369,7 +369,7 @@ async def quality_search(client: Client, query: CallbackQuery):
         btn = [[InlineKeyboardButton(f"🔗 {get_size(f['file_size'])}≽ {formate_file_name(f['file_name'])}", callback_data=f"files#{query.from_user.id}#{f['_id']}")] for f in page_files]
 
     btn.insert(0, [
-        InlineKeyboardButton("• AdultPlayxBot •", url=f"https://t.me/AdultPlayxBot"),
+        InlineKeyboardButton("• AdultxBot •", url=f"https://t.me/DesiSinbot"),
         InlineKeyboardButton("• Movies •", url=f"https://t.me/aksearch")
     ])
     btn.insert(1, [InlineKeyboardButton("• sᴇɴᴅ ᴀʟʟ •", callback_data=f"batchfiles#{query.message.chat.id}#{query.id}#{query.from_user.id}")])
@@ -461,7 +461,7 @@ async def lang_search(client: Client, query: CallbackQuery):
         btn = [[InlineKeyboardButton(f"🔗 {get_size(f['file_size'])}≽ {formate_file_name(f['file_name'])}", callback_data=f"files#{query.from_user.id}#{f['_id']}")] for f in page_files]
 
     btn.insert(0, [
-        InlineKeyboardButton("• AdultPlayxBot •", url=f"https://t.me/AdultPlayxBot"),
+        InlineKeyboardButton("• AdultxBot •", url=f"https://t.me/DesiSinbot"),
         InlineKeyboardButton("• Movies •", url=f"https://t.me/aksearch")
     ])
     btn.insert(1, [InlineKeyboardButton("• sᴇɴᴅ ᴀʟʟ •", callback_data=f"batchfiles#{query.message.chat.id}#{query.id}#{query.from_user.id}")])
@@ -734,7 +734,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
 
     elif query.data == "source":
         buttons = [[
-            InlineKeyboardButton('ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 📜', url='https://t.me/akmovieshubx'),
+            InlineKeyboardButton('ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 📜', url='https://t.me/DesiSinbot'),
             InlineKeyboardButton('⇋ ʙᴀᴄᴋ ⇋', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -1228,7 +1228,7 @@ async def auto_filter(client, msg, spoll=False):
 
     if offset and total_results >= int(MAX_BTN):
         # Multiple pages available
-        btn.insert(0, [InlineKeyboardButton("• Aᴅᴜʟᴛ •", url=f"https://t.me/AdultPlayxBot")])
+        btn.insert(0, [InlineKeyboardButton("• Aᴅᴜʟᴛ •", url=f"https://t.me/DesiSinbot")])
         btn.insert(1, [
             InlineKeyboardButton("• ǫᴜᴀʟɪᴛʏ •", callback_data=f"qualities#{key}#{offset}#{req}"),
             InlineKeyboardButton("• Movies •", url=f"https://t.me/aksearch")
