@@ -142,7 +142,7 @@ sᴇɴᴅ ᴍᴇ Aᴅᴜʟᴛ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ɴᴀᴍᴇ ᴀ�
 ❗️ ʟᴀɴɢᴜᴀɢᴇ - {languages}</b>
 """
 
-    FILE_CAPTION = """<b><a href="https://t.me/PurelySin">{file_name}</a>\n\nUploaded By: <a href="https://t.me/PurelySinX">PurelySin</a></b>"""
+    FILE_CAPTION = """<b><a href="https://t.me/PurelySin">{file_name}</a>\n\nUploaded By: <a href="https://t.me/PurelySinX">PurelySinX</a></b>"""
 
     MOVIE_UPDATE_NOTIFY_TXT = """
 </b><a href={poster_url}>📥</a><a href={imdb_url}>New {tag} Added</a></b>
@@ -190,10 +190,10 @@ sᴇɴᴅ ᴍᴇ Aᴅᴜʟᴛ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ɴᴀᴍᴇ ᴀ�
     
     PREMIUM_TEXT = """<b><i><blockquote>ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟᴀɴs  ♻️</blockquote>
 
-• 𝟷 ᴡᴇᴇᴋ    -  ₹𝟹𝟶
-• 𝟷 ᴍᴏɴᴛʜ   -  ₹110
-• 𝟹 ᴍᴏɴᴛʜs  -  ₹300
-• 𝟼 ᴍᴏɴᴛʜs  -  ₹55𝟶
+• 𝟷 ᴡᴇᴇᴋ    -  ₹49
+• 𝟷 ᴍᴏɴᴛʜ   -  ₹139
+• 𝟹 ᴍᴏɴᴛʜs  -  ₹299
+• 𝟼 ᴍᴏɴᴛʜs  -  ₹499
 
 •─────•─────────•─────•
 <blockquote>ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇs  🎁</blockquote>
