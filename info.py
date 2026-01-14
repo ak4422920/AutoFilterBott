@@ -22,7 +22,7 @@ API_ID = int(environ.get('API_ID', ''))
 API_HASH = environ.get('API_HASH', '')
 BOT_TOKEN = environ.get('BOT_TOKEN', '')
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '5482682830').split()]
-USERNAME = environ.get('USERNAME', "https://telegram.me/PurelySinVIPBot")
+USERNAME = environ.get('USERNAME', "https://telegram.me/Zzoorrooo")
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002241963214'))
 MOVIE_GROUP_LINK = environ.get('MOVIE_GROUP_LINK', 'https://t.me/+XkULu0nROB80MmY9')
 
