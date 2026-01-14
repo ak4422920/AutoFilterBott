@@ -145,17 +145,12 @@ sᴇɴᴅ ᴍᴇ Aᴅᴜʟᴛ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ɴᴀᴍᴇ ᴀ�
     FILE_CAPTION = """<b><a href="https://t.me/PurelySin">{file_name}</a>\n\nUploaded By: <a href="https://t.me/PurelySinX">PurelySinX</a></b>"""
 
     MOVIE_UPDATE_NOTIFY_TXT = """
-</b><a href={poster_url}>📥</a><a href={imdb_url}>New {tag} Added</a></b>
+</b><a href={poster_url}>📥</a><a href={imdb_url}>New Video Added</a></b>
 
 ✨ ᴛɪᴛʟᴇ : <code>{filename}</code>
 ─┉─•✦•─┉─
 <blockquote>
-🎭 ɢᴇɴʀᴇs : <b>{genres}</b>
-📺 ᴏᴛᴛ        : <b>{ott}</b>
-🎞️ ǫᴜᴀʟɪᴛʏ : <b>{quality}</b>
-🎧 ᴀᴜᴅɪᴏ    : <b>{language}</b>
-🔥 ʀᴀᴛɪɴɢ   : <b>{rating}</b>
-{episodes}</blockquote>
+🔞 Desi Videos : @DesiSinBot </blockquote>
 ─┉─•✦•─┉─
 🔍 <b>Sᴇᴀʀᴄʜ →</b> {search_link}
 """
