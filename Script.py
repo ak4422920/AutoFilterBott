@@ -150,7 +150,7 @@ sᴇɴᴅ ᴍᴇ Aᴅᴜʟᴛ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ɴᴀᴍᴇ ᴀ�
 ✨ ᴛɪᴛʟᴇ : <code>{filename}</code>
 ─┉─•✦•─┉─
 <blockquote>
-🔞 Desi Videos : @DesiSinBot </blockquote>
+🔞 Desi Videos : @DesiSinXBot </blockquote>
 ─┉─•✦•─┉─
 🔍 <b>Sᴇᴀʀᴄʜ →</b> {search_link}
 """
