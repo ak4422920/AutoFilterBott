@@ -29,13 +29,13 @@ MOVIE_GROUP_LINK = environ.get('MOVIE_GROUP_LINK', 'https://t.me/+XkULu0nROB80Mm
 # Pics 
 
 QR_CODE = environ.get('QR_CODE', 'https://graph.org/file/ccb9db43e62a2e524928e.jpg')
-START_IMG = environ.get('START_IMG', 'https://envs.sh/niG.jpg')
+START_IMG = environ.get('START_IMG', 'https://i.ibb.co/5Xz3zxqk/photo-2026-02-17-02-51-43-7607661436667428880.jpg')
 FSUB_PICS = (environ.get('FSUB_PICS', 'https://graph.org/file/7478ff3eac37f4329c3d8.jpg')).split() 
 
 # File Limit
 
 IS_FILE_LIMIT = is_enabled('IS_FILE_LIMIT', True) # Enable Or Disable File Limit
-FILES_LIMIT = int(environ.get("FREE_FILES", "3")) #No. of File User Gets In Free
+FILES_LIMIT = int(environ.get("FREE_FILES", "4")) #No. of File User Gets In Free
 
 # Database Settings
 
@@ -92,7 +92,7 @@ LANDSCAPE_POSTER = bool(environ.get('LANDSCAPE_POSTER', False)) # Shows landscap
 # Bot Settings
 
 AUTO_FILTER = is_enabled('AUTO_FILTER', True)
-FILE_AUTO_DEL_TIMER = int(environ.get('FILE_AUTO_DEL_TIMER', '1800'))
+FILE_AUTO_DEL_TIMER = int(environ.get('FILE_AUTO_DEL_TIMER', '5600'))
 PORT = os.environ.get('PORT', '5000')
 MAX_BTN = int(environ.get('MAX_BTN', '8'))
 AUTO_DELETE = is_enabled('AUTO_DELETE', True)
@@ -101,7 +101,7 @@ IMDB = is_enabled('IMDB', False)
 FILE_CAPTION = environ.get('FILE_CAPTION', f'{script.FILE_CAPTION}')
 IMDB_TEMPLATE = environ.get('IMDB_TEMPLATE', f'{script.IMDB_TEMPLATE_TXT}')
 LONG_IMDB_DESCRIPTION = is_enabled('LONG_IMDB_DESCRIPTION', False)
-PROTECT_CONTENT = is_enabled('PROTECT_CONTENT', False)
+PROTECT_CONTENT = is_enabled('PROTECT_CONTENT', True)
 SPELL_CHECK = is_enabled('SPELL_CHECK', False)
 LINK_MODE = is_enabled('LINK_MODE', False)
 USE_CAPTION_FILTER = is_enabled('USE_CAPTION_FILTER', False)
