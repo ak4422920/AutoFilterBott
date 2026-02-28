@@ -87,12 +87,12 @@ LINK_PREVIEW = bool(environ.get('LINK_PREVIEW', True)) # Shows link preview in n
 ABOVE_PREVIEW = bool(environ.get('ABOVE_PREVIEW', True)) # Shows link preview above the text in notification msg if True else below the msg
 TMDB_API_KEY = environ.get('TMDB_API_KEY', '56b50689afe7438a51aab0d653679865') # preffer to use your own tmdb API Key get it from https://www.themoviedb.org/settings/api
 TMDB_POSTER = bool(environ.get('TMDB_POSTER', True)) # Shows TMDB poster in notification msg
-LANDSCAPE_POSTER = bool(environ.get('LANDSCAPE_POSTER', False)) # Shows landscape poster in notification msg
+LANDSCAPE_POSTER = bool(environ.get('LANDSCAPE_POSTER', True)) # Shows landscape poster in notification msg
 
 # Bot Settings
 
 AUTO_FILTER = is_enabled('AUTO_FILTER', True)
-FILE_AUTO_DEL_TIMER = int(environ.get('FILE_AUTO_DEL_TIMER', '5600'))
+FILE_AUTO_DEL_TIMER = int(environ.get('FILE_AUTO_DEL_TIMER', '2200'))
 PORT = os.environ.get('PORT', '5000')
 MAX_BTN = int(environ.get('MAX_BTN', '8'))
 AUTO_DELETE = is_enabled('AUTO_DELETE', True)
